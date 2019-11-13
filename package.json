@@ -1,0 +1,26 @@
+{
+  "name": "Ben-s-Morning-Tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon listen.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ulther/Ben-s-Morning-Tasks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ulther/Ben-s-Morning-Tasks/issues"
+  },
+  "homepage": "https://github.com/Ulther/Ben-s-Morning-Tasks#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
